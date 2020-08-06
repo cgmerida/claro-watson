@@ -1,0 +1,10 @@
+.tableRowEven  {
+	background-color: #f6f6f6;
+	height:30px;
+	line-height:1;
+}
+.wpsMensajeError {
+	font-size: 10px;
+	color: #FF0000;
+	text-decoration: none;
+}
